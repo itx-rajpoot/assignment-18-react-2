@@ -1,0 +1,44 @@
+.btn {
+  margin-top: 10px;
+}
+
+.login-heading, .register-heading, .forgot-password-heading, .change-password-heading {
+  margin-top: 0;
+  text-align: center;
+  color: #1d3357;
+  font-size: 42px;
+}
+
+.forget-link {
+  margin: 0;
+  margin-left: 80px;
+}
+.login-link {
+  margin: 0;
+}
+
+.label-forget, .label-login, .label-forgot-password, .label-change-password {
+  display: flex;
+  align-items: center;
+  margin-top: 10px;
+}
+
+.login-btn, .register-btn, .forgot-password-btn, .change-password-btn {
+  margin-top: 15px;
+  width: 200px;
+}
+
+.login-div, .register-div, .forgot-password-div, .change-password-div {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+
+.have-account, .forgot-password-account {
+  margin-top: 15px;
+  margin-left: 50px;
+}
+
+.register-form label, .forgot-password-form label, .change-password-form label {
+  margin-top: 10px;
+}
